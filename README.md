@@ -1,0 +1,1 @@
+# spring-boot-hibernate-bidirectional-one-to-one-relationship-mapping
