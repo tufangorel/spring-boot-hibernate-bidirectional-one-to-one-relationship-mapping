@@ -63,7 +63,7 @@ HTTP response code 200 <br/>
         "country": "TR"
     }
 }
-</pre><br/>
+</pre>
 
 ### Find customer by shipping address id
 
