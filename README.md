@@ -3,13 +3,13 @@
 1- Implement hibernate bidirectional one-to-one relational mapping <br/>
 2- ER diagram :  <br/><br/>
 
-![alt text](https://github.com/tufangorel/spring-boot-hibernate-unidirectional-one-to-one-relationship-mapping/blob/main/customer_shipping_address_er_diagram-unidirectional-one-to-one.png)
+![er_diagram-bidirectional-one-to-one](doc/er_diagram-bidirectional-one-to-one.png)
 <br/>
 
 3- Start Spring Boot application with a specific profile such as "-Dspring.profiles.active=dev" . <br/>
 4- swagger-ui can be accessed from URL : http://localhost:8080/customer-info/swagger-ui/ <br/><br/>
 
-![alt text](https://github.com/tufangorel/spring-boot-hibernate-bidirectional-one-to-one-relationship-mapping/blob/main/springfox-swagger-ui.png)
+![springfox-swagger-ui](doc/springfox-swagger-ui.png)
 <br/>
 
 ### Tech Stack
